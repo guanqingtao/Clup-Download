@@ -16,7 +16,7 @@
 
 ## 集群管理页面
 * 集群界面
-![image](https://github.com/hangzhou-cstech/Clup-Download/blob/master/image/集群管理界面.png)
+![image](https://github.com/hangzhou-cstech/Clup-Download/blob/master/image/集群管理.png)
 
 * 一键添加集群
 ![image](https://github.com/hangzhou-cstech/Clup-Download/blob/master/image/集群创建.png)
