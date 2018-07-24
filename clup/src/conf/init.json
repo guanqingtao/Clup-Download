@@ -1,0 +1,61 @@
+[
+    {
+        "cluster_name" : "cluster01",
+        "remark": "test01",
+        "write_vip": "192.168.56.68",
+        "read_vip": "192.168.56.67",
+        "cstlb_list": [
+            "192.168.56.61:8082",
+            "192.168.56.62:8082"
+        ],
+        "state": 0,
+        "lock_time": 0,
+        "read_vip_host": "192.168.56.62",
+        "db_list": [
+            {
+                "id": 1,
+                "state": 1,
+                "os_user": "postgres",
+                "pgdata": "/home/postgres/pgdata",
+                "is_primary": 1,
+                "repl_app_name": "stb61",
+                "host": "192.168.56.61",
+                "switch_host": "192.168.56.61",
+                "port": 5432
+            },
+            {
+                "id": 2,
+                "state": 1,
+                "os_user": "postgres",
+                "pgdata": "/home/postgres/pgdata",
+                "is_primary": 0,
+                "repl_app_name": "stb62",
+                "host": "192.168.56.62",
+                "switch_host": "192.168.56.62",
+                "port": 5432
+            },
+            {
+                "id": 3,
+                "state": 1,
+                "os_user": "postgres",
+                "pgdata": "/home/postgres/pgdata",
+                "is_primary": 0,
+                "repl_app_name": "stb63",
+                "host": "192.168.56.63",
+                "switch_host": "192.168.56.63",
+                "port": 5432
+            },
+            {
+                "id": 4,
+                "state": 1,
+                "os_user": "postgres",
+                "pgdata": "/home/postgres/pgdata",
+                "is_primary": 0,
+                "repl_app_name": "stb64",
+                "host": "192.168.56.64",
+                "switch_host": "192.168.56.64",
+                "port": 5432
+            }
+        ]
+    }
+]
