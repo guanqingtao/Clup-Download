@@ -16,19 +16,19 @@
 
 ## 集群管理页面
 * 集群界面
-![Alt text](./1532329244150.png)
+![image](https://github.com/hangzhou-cstech/Clup-Download/blob/master/image/集群管理界面.png)
 
 * 一键添加集群
- ![Alt text](./1532329137452.png)
+![image](https://github.com/hangzhou-cstech/Clup-Download/blob/master/image/集群创建.png)
 
 * 集群维护 
- ![Alt text](./1532329178628.png)
+![image](https://github.com/hangzhou-cstech/Clup-Download/blob/master/image/集群维护.png)
 
 * 复制状态监控
-![Alt text](./1532329208444.png)
+![image](https://github.com/hangzhou-cstech/Clup-Download/blob/master/image/主备状态监控.png)
 
 * 集群日志查看
-![Alt text](./1532329290830.png)
+![image](https://github.com/hangzhou-cstech/Clup-Download/blob/master/image/集群日志监控.png)
 
 ## 关于乘数
 * 乘数科技总部位于杭州，创始团队为PostgreSQL中国社区核心成员
